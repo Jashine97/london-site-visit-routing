@@ -8,4 +8,3 @@ Includes:
 - Multi-stop Google Maps route generation
 - Modern UI
 
-Upload this folder directly to GitHub.
